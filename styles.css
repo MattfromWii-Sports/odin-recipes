@@ -1,0 +1,50 @@
+/*Affects Front*/
+.header {
+    font-family: Georgia, Times, sans-serif;
+    font-size: 20px;
+    font-weight: 400px;
+}
+#big-header {
+    font-size: 100px;
+    color: black;
+    text-align: center;
+    font-family: "Times New Roman", serif, Verdana;
+    background-color: aqua;
+    font-weight: bold;
+}
+.header.fish {
+    background-color: salmon;
+}
+.header.pig {
+    background-color: pink;
+}
+.header.chicken {
+    background-color: rgb(228, 214, 214);
+}
+/*Affects Subpages*/
+.food-image {
+    width: 600px;
+    height: auto;
+}
+#subheader {
+    font-family: Impact, "Haettenschweiler",Arial;
+    text-decoration: underline;
+}
+#big-header.fish {
+    background-color: salmon;
+}
+#big-header.pig{
+    background-color: pink;
+}
+#big-header.chicken{
+    background-color: rgb(228, 214, 214);
+}
+ol,
+.text {
+    font-size: 20px;
+    background-color: aquamarine;
+}
+ul {
+    font-size: 25px;
+    background-color: rgb(255, 255, 142);
+}
